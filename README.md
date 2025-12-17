@@ -11,8 +11,12 @@ English：Survival Efficiency, Non-Deliberate Origin of Patriarchy, Resolution o
 - 联系邮箱 | Email：67126146@qq.com
 
 ## 论文版本 | Thesis Versions
-- 中文完整版 | Chinese Full Version：[README.zh.md](https://github.com/gaohaohao520/survival-efficiency-gender-power-thesis/blob/main/README.zh.md)
-- 英文完整版 | English Full Version：[README.en.md](https://github.com/gaohaohao520/survival-efficiency-gender-power-thesis/blob/main/README.en.md)
+- 中文完整版 | Chinese Full Version：
+  相对路径（仓库内跳转）：`./README.zh.md`
+  绝对路径（外部引用）：`https://github.com/gaohaohao520/survival-efficiency-gender-power-thesis/blob/main/README.zh.md`
+- English Full Version：
+  相对路径（仓库内跳转）：`./README.en.md`
+  绝对路径（外部引用）：`https://github.com/gaohaohao520/survival-efficiency-gender-power-thesis/blob/main/README.en.md`
 
 ## 论文核心摘要 | Core Abstract
 本文通过物种竞争与生产模式演变的逻辑，论证父系权力起源是人类生存效率的自然选择，而非刻意压迫，为当代性别对立提供客观认知基础。
