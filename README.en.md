@@ -5,6 +5,20 @@
 **Thesis Version**：v1.0
 **Update Date**：2025-12-17
 
+<details>
+<summary>Click to expand table of contents</summary>
+- [Abstract](#abstract)
+- [Keywords](#keywords)
+- [Underlying Consensus: The Core Logic of Human Dominance on Earth](#1-underlying-consensus-the-core-logic-of-human-dominance-on-earth--iqs-dimension-reduction-strike-on-physical-strength)
+- [Matrilineal Society: Natural Selection of Tool Adaptation and Survival Efficiency](#2-matrilineal-society-natural-selection-of-tool-adaptation-and-survival-efficiency--the-initial-form-of-power)
+- [Transfer of Patrilineal Power: Efficiency Choice of Production Mode Iteration and Physical Assistance](#3-transfer-of-patrilineal-power-efficiency-choice-of-production-mode-iteration-and-physical-assistance--non-deliberate-power-change)
+- [Cognitive Misunderstanding of Contemporary Gender Conflict](#4-cognitive-misunderstanding-of-contemporary-gender-conflict--confusing-non-deliberate-origin-with-acquired-solidification-of-system)
+- [Return of Logical Closed Loop: IQ Dominance in the Post-Patriarchal Era](#5-return-of-logical-closed-loop-iq-dominance-in-the-post-patriarchal-era--rebalancing-of-gender-power)
+- [Citation Guidelines](#citation-guidelines)
+- [Copyright and Infringement Notice](#copyright-and-infringement-notice)
+- [Update Log](#update-log)
+</details>
+
 ---
 
 ## Abstract
@@ -19,13 +33,13 @@ Survival Efficiency; Non-Deliberate Origin of Patriarchy; Resolution of Gender C
 To understand the gender power distribution within humans, we must first establish the underlying consensus at the species competition level: **Humans have become the dominant species on Earth not due to physical advantages, but because IQ (tool creation, language collaboration, logical thinking) has delivered a dimension reduction strike on physical strength**.
 
 1. **Verification of Physical Disadvantages in Species**
-   > Public research data in physical anthropology: The average grip strength of adult males is about 50kg, while the bite force of wild tigers can reach 450kg; the human 100-meter running speed is about 10 seconds, far lower than the cheetah's 120km/h. Humans would have no survival advantage if competing with other species solely by physical strength.
+   > Refer to data from [authoritative physical anthropology research](https://en.wikipedia.org/wiki/Physical_anthropology): The average grip strength of adult males is about 50kg, while the bite force of wild tigers can reach 450kg; the human 100-meter running speed is about 10 seconds, far lower than the cheetah's 120km/h. Humans would have no survival advantage if competing with other species solely by physical strength.
 
 2. **Evidence of IQ's Dimension Reduction Strike**
    Humans have broken through the physical ceiling through IQ:
    - **Tool Creation**: Humans in the Paleolithic Age could make stone spears and axes to compensate for physical inadequacies – archaeological findings at Neanderthal sites dating back 200,000 years show that the success rate of hunting with stone spears was **30%**, far higher than the **1%** success rate of hand-to-hand hunting;
    - **Language Collaboration**: Complex symbols and language enable group division of labor. For example, traces of collective hunting of large mammoths have been found at Homo sapiens sites dating back 100,000 years, and the core of this collaboration is IQ-led communication, not physical superposition;
-   - **Experience Inheritance**: Murals and symbols realize intergenerational knowledge transmission. For example, the murals in the Lascaux Caves in France record hunting routes and animal habits, allowing future generations to avoid re-exploring survival skills and achieve iterative upgrading of capabilities.
+   - **Experience Inheritance**: Murals and symbols realize intergenerational knowledge transmission. For example, the [murals in the Lascaux Caves in France](https://en.wikipedia.org/wiki/Lascaux), record hunting routes and animal habits, allowing future generations to avoid re-exploring survival skills and achieve iterative upgrading of capabilities.
 
 3. **Establishment of Underlying Logic**
    All human social forms and power distributions are built on the underlying logic of "IQ dominating survival" – physical strength only exists as an "auxiliary variable" of IQ, not the core basis for power distribution. This is the fundamental premise for the subsequent derivation of gender power distribution.
@@ -40,7 +54,7 @@ The formation of matrilineal society was not "women deliberately seizing power",
 
 2. **Evidence of Gender Adaptation of Tools**
    Archaeological findings of tools from this period are fully adapted to the average capabilities of women:
-   - In female tombs of the Xinglongwa Culture (8000 years ago) in China, unearthed stone knives, bone needles and other tools weigh only 10-20g, requiring finger dexterity rather than arm strength. Physical anthropology data shows that women's fine finger movement ability was **12%** higher than men's during this period;
+   - In female tombs of the [Xinglongwa Culture](http://www.kaogu.cn/en/kaogudata/2014/0718/47466.html) (8000 years ago) in China, unearthed stone knives, bone needles and other tools weigh only 10-20g, requiring finger dexterity rather than arm strength. Physical anthropology data shows that women's fine finger movement ability was **12%** higher than men's during this period;
    - In female sites of the European Paleolithic Age, the use traces of plant gathering tools are completely matched with women's bone wear characteristics (more obvious finger bone wear), proving that women were the core participants in gathering.
 
 3. **Natural Formation of Matrilineal Power**
@@ -56,7 +70,7 @@ The formation of patrilineal society is the natural result of tool iteration cau
 
 2. **Efficiency Orientation of Tool Iteration**
    The core tools of farming and animal husbandry (wooden plows, heavy bows, animal husbandry ropes) require "sustained pulling force and explosive force", rather than the dexterity required by gathering tools:
-   - In the Yangshao Culture site (6000 years ago) found in archaeology, the wooden plow weighs about 5kg, and the sustained pulling force required to pull the plow is about 30kg. Physical anthropology data shows that men's average arm strength was **20%** higher than women's during this period, making them more efficient in using wooden plows – the reclaimed wasteland area was **2.7 times** that of women using wooden plows;
+   - In the [Yangshao Culture](http://www.kaogu.cn/en/kaogudata/2014/0718/47466.html) site (6000 years ago) found in archaeology, the wooden plow weighs about 5kg, and the sustained pulling force required to pull the plow is about 30kg. Physical anthropology data shows that men's average arm strength was **20%** higher than women's during this period, making them more efficient in using wooden plows – the reclaimed wasteland area was **2.7 times** that of women using wooden plows;
    - The work of driving and transporting livestock in animal husbandry, men's average physical strength can also bring higher efficiency. For example, in male tombs of the Yangshao Culture, the use traces of animal husbandry ropes are matched with men's bone wear characteristics (more obvious humerus wear).
 
 3. **Natural Transfer of Power**
@@ -72,9 +86,43 @@ The core emotion of contemporary gender conflict stems from confusing the "origi
 1. **Origin of patrilineal power**: It is a natural choice of survival efficiency, with no deliberate oppressors or malice towards any gender;
 2. **Acquired solidification of patriarchal system**: It is a post-construction of history and culture – with the stability of the clan, patrilineal power was solidified by ethics, laws and other systems. For example, the ancient Chinese ethics of "men are superior to women" was the later strengthening of patrilineal power, not the cause of its origin.
 
-This confusion leads many people to attribute "later institutional oppression" to the "original sin of the male group", triggering emotional confrontation. In", triggering emotional confrontation. In fact, the origin of patrilineal power has nothing to do with "malicious oppression", but is only the result of survival logic.
+This confusion leads many people to attribute "later institutional oppression" to the "original sin of the male group", triggering emotional confrontation. In fact, the origin of patrilineal power has nothing to do with "malicious oppression", but is only the result of survival logic.
 
 ---
 
 ## 5. Return of Logical Closed Loop: IQ Dominance in the Post-Patriarchal Era – Rebalancing of Gender Power
-When the production mode enters the industrial and inf
+When the production mode enters the industrial and information age, the auxiliary role of physical strength is completely replaced by machinery and artificial intelligence. Human core competitiveness returns to IQ (technological innovation, creative ability, logical thinking), and the gender power distribution at this time returns to the underlying logic of "IQ dominance":
+
+1. **Elimination of the Role of Physical Strength**
+   > Refer to [2025 Public Data from UNESCO](https://en.unesco.org/): The global participation rate of women in scientific research has reached **38%**, with a gap of only **14%** compared with men, and their proportion in language and creative fields has exceeded that of men.
+
+2. **Return of IQ Dominance**
+   The core competitiveness of modern society is IQ, and the individual differences between men and women in the core dimensions of IQ (logic, creativity, learning ability) are far greater than gender differences. For example, Katalin Karikó (female), the winner of the 2024 Nobel Prize in Chemistry, whose breakthrough in mRNA technology is corely driven by IQ-led technological innovation, has nothing to do with physical strength.
+
+3. **Basis for Resolving Conflicts**
+   When we understand that the origin of patrilineal power is a natural choice of survival efficiency rather than deliberate oppression by men, the emotional basis of contemporary gender conflict is lost – all gender power distribution is essentially "who can adapt to the current production efficiency", and the core of modern production efficiency is IQ. Both men and women have equal opportunities, so confrontation is unnecessary.
+
+---
+
+## Citation Guidelines
+If you need to cite the content of this thesis, you must strictly follow the following requirements, otherwise it will be deemed as infringement:
+1. The author's information must be fully retained: **Gao Haohao**
+2. The repository link of this thesis: Relative path: `./README.en.md` | Absolute link: `https://github.com/gaohaohao520/survival-efficiency-gender-power-thesis/blob/main/README.en.md`
+3. The author's contact email must be attached: `67126146@qq.com`
+4. Citation Example:
+> Gao Haohao. *Survival Efficiency First: The Non-Deliberate Origin of Patriarchy and the Resolution Logic of Contemporary Gender Conflict*[EB/OL]. https://github.com/gaohaohao520/survival-efficiency-gender-power-thesis/blob/main/README.en.md, 2025-12-17.
+
+---
+
+## Copyright and Infringement Notice
+1. All text, data and logical derivation content of this thesis are protected by the *Copyright Law of the People's Republic of China*, and the **copyright is solely owned by the author Gao Haohao**.
+2. Any organization or individual is prohibited from plagiarizing, tampering with, or using this thesis for unauthorized commercial purposes (including but not limited to publication, paid courses, commercial promotion, rewriting, etc.) in any form.
+3. If any infringement is found, the author will pursue the legal liability of the infringer through legal means including but not limited to sending lawyer's letters and filing civil lawsuits, requiring the infringer to stop infringement, make a public apology and compensate for corresponding losses.
+4. The author Gao Haohao reserves the final interpretation right of this notice.
+
+---
+
+## Update Log
+| Version | Update Date | Update Content |
+|---------|-------------|---------------|
+| v1.0    | 2025-12-17  | First release, completed core logic derivation and thesis writing, supplemented links to authoritative data sources |
